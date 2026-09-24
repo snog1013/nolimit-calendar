@@ -7,3 +7,4 @@ EDEN Division のカレンダー（https://edendivision.com/calendar）から NO
 
 - 開始時刻がある予定は韓国時間。終了時刻はサイトにないので開始+2時間
 - 未公開（공개 예정）の予定は終日予定
+- サイトから読むのは先月〜半年先。それより前の予定は `data/events.json` に保存したものを残し続ける

@@ -19,14 +19,12 @@ jobs:
       - run: python build_ics.py
       - name: Commit if changed
         run: |
-          # DTSTAMP は毎回変わるので、それ以外に差分があるときだけコミット
-          if git diff -U0 -- docs/nolimit.ics | grep -E '^[-+][^-+]' | grep -vq '^[-+]DTSTAMP'; then
+          if [ -n "$(git status --porcelain docs data)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-            git add docs/nolimit.ics
+            git add docs data
             git commit -m "Update calendar"
             git push
           else
-            git checkout -- docs/nolimit.ics
             echo "No changes"
           fi
