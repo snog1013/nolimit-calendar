@@ -315,13 +315,14 @@ URL:https://edendivision.dothome.co.kr/events/beyond-the-dream
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-178@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:[공개 예정] H7KD · NO LiMIT · ORIKA
-DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
- e.co.kr/events/될수없어
-URL:https://edendivision.dothome.co.kr/events/될수없어
+DTSTAMP:20260925T152659Z
+DTSTART;TZID=Asia/Seoul:20261007T183000
+DTEND;TZID=Asia/Seoul:20261007T203000
+SUMMARY:지각생은 될 수 없어!
+LOCATION:프리즘홀
+DESCRIPTION:出演: H7KD · IDOL PREVIEW PROJECT · NO LiMIT · ORIKA\nhtt
+ ps://edendivision.dothome.co.kr/events/지각생은-될-수-없어
+URL:https://edendivision.dothome.co.kr/events/지각생은-될-수-없어
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-179@edendivision
