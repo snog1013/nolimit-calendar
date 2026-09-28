@@ -326,13 +326,14 @@ URL:https://edendivision.dothome.co.kr/events/지각생은-될-수-없어
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-179@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 매시업
-URL:https://edendivision.dothome.co.kr/events/매시업
+DTSTAMP:20260928T032740Z
+DTSTART;TZID=Asia/Seoul:20261009T183000
+DTEND;TZID=Asia/Seoul:20261009T203000
+SUMMARY:EDEN Mash-up!vol.24
+LOCATION:프리즘홀
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/ed
+ en-mash-up-vol-24
+URL:https://edendivision.dothome.co.kr/events/eden-mash-up-vol-24
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-201@edendivision
