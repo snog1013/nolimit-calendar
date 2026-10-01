@@ -337,14 +337,14 @@ URL:https://edendivision.dothome.co.kr/events/eden-mash-up-vol-24
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-201@edendivision
-DTSTAMP:20260924T160917Z
+DTSTAMP:20261001T063451Z
 DTSTART;TZID=Asia/Seoul:20261011T165000
 DTEND;TZID=Asia/Seoul:20261011T185000
-SUMMARY:HANIL FES PREMIUM
+SUMMARY:BOUND RUSH vol.3
 LOCATION:아스트라홀
 DESCRIPTION:出演: H7KD · NO LiMIT\nhttps://edendivision.dothome.co.kr/e
- vents/hanil-fes-premium-a5fd
-URL:https://edendivision.dothome.co.kr/events/hanil-fes-premium-a5fd
+ vents/bound-rush-vol-3
+URL:https://edendivision.dothome.co.kr/events/bound-rush-vol-3
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-182@edendivision
