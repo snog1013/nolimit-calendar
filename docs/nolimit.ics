@@ -326,11 +326,11 @@ URL:https://edendivision.dothome.co.kr/events/지각생은-될-수-없어
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-179@edendivision
-DTSTAMP:20260928T032740Z
+DTSTAMP:20261008T183224Z
 DTSTART;TZID=Asia/Seoul:20261009T183000
 DTEND;TZID=Asia/Seoul:20261009T203000
 SUMMARY:EDEN Mash-up!vol.24
-LOCATION:프리즘홀
+LOCATION:긱 라이브하우스
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/ed
  en-mash-up-vol-24
 URL:https://edendivision.dothome.co.kr/events/eden-mash-up-vol-24
@@ -368,10 +368,10 @@ URL:https://edendivision.dothome.co.kr/events/프리즈매틱-78dd
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-184@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT · ORIKA
+DTSTAMP:20261008T183224Z
+DTSTART;TZID=Asia/Seoul:20261017T164000
+DTEND;TZID=Asia/Seoul:20261017T184000
+SUMMARY:SHINE
 DESCRIPTION:出演: LuciDreaM · NO LiMIT · ORIKA\nhttps://edendivision.d
  othome.co.kr/events/오리카-리리이베-eefc
 URL:https://edendivision.dothome.co.kr/events/오리카-리리이베-eefc
