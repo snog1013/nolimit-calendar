@@ -348,40 +348,44 @@ URL:https://edendivision.dothome.co.kr/events/bound-rush-vol-3
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-182@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:[공개 예정] H7KD · NO LiMIT
+DTSTAMP:20261012T033222Z
+DTSTART;TZID=Asia/Seoul:20261013T183000
+DTEND;TZID=Asia/Seoul:20261013T203000
+SUMMARY:then?!
+LOCATION:프리즘홀
 DESCRIPTION:出演: H7KD · NO LiMIT\nhttps://edendivision.dothome.co.kr/e
  vents/then
 URL:https://edendivision.dothome.co.kr/events/then
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-183@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT · ORIKA
-DESCRIPTION:出演: LuciDreaM · NO LiMIT · ORIKA\nhttps://edendivision.d
- othome.co.kr/events/프리즈매틱-78dd
-URL:https://edendivision.dothome.co.kr/events/프리즈매틱-78dd
+DTSTAMP:20261012T033222Z
+DTSTART;TZID=Asia/Seoul:20261015T183000
+DTEND;TZID=Asia/Seoul:20261015T203000
+SUMMARY:Prizmatic Stage vol.4
+LOCATION:프리즘홀
+DESCRIPTION:出演: IDOL PREVIEW PROJECT · LuciDreaM · NO LiMIT\nhttps:/
+ /edendivision.dothome.co.kr/events/prizmatic-stage-vol-4
+URL:https://edendivision.dothome.co.kr/events/prizmatic-stage-vol-4
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-184@edendivision
-DTSTAMP:20261008T183224Z
+DTSTAMP:20261012T033222Z
 DTSTART;TZID=Asia/Seoul:20261017T164000
 DTEND;TZID=Asia/Seoul:20261017T184000
 SUMMARY:SHINE
+LOCATION:아스트라홀
 DESCRIPTION:出演: LuciDreaM · NO LiMIT · ORIKA\nhttps://edendivision.d
  othome.co.kr/events/오리카-리리이베-eefc
 URL:https://edendivision.dothome.co.kr/events/오리카-리리이베-eefc
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-186@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:[공개 예정] H7KD · NO LiMIT · ORIKA
+DTSTAMP:20261012T033222Z
+DTSTART;TZID=Asia/Seoul:20261020T183000
+DTEND;TZID=Asia/Seoul:20261020T203000
+SUMMARY:Legacy
+LOCATION:프리즘홀
 DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
  e.co.kr/events/legacy
 URL:https://edendivision.dothome.co.kr/events/legacy
@@ -438,13 +442,14 @@ URL:https://edendivision.dothome.co.kr/events/노리밋-1주년
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-230@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:[공개 예정] H7KD · NO LiMIT
+DTSTAMP:20261012T033222Z
+DTSTART;TZID=Asia/Seoul:20261106T183000
+DTEND;TZID=Asia/Seoul:20261106T203000
+SUMMARY:PRISM : ONE SCENE\, FOUR COLORS
+LOCATION:프리즘홀
 DESCRIPTION:出演: H7KD · NO LiMIT\nhttps://edendivision.dothome.co.kr/e
- vents/예정
-URL:https://edendivision.dothome.co.kr/events/예정
+ vents/prism-one-scene-four-colors
+URL:https://edendivision.dothome.co.kr/events/prism-one-scene-four-colors
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-219@edendivision
