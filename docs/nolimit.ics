@@ -432,13 +432,15 @@ URL:https://edendivision.dothome.co.kr/events/피버-메가-할로윈
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-202@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 노리밋-1주년
-URL:https://edendivision.dothome.co.kr/events/노리밋-1주년
+DTSTAMP:20261014T034019Z
+DTSTART;TZID=Asia/Seoul:20261101T150000
+DTEND;TZID=Asia/Seoul:20261101T170000
+SUMMARY:Beyond the Limit : 1st anniversary
+LOCATION:프리즘홀
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/be
+ yond-the-limit-1st-anniversary
+URL:https://edendivision.dothome.co.kr/events/beyond-the-limit-1st-anniver
+ sary
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-230@edendivision
@@ -463,13 +465,14 @@ URL:https://edendivision.dothome.co.kr/events/빼빼로주최
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-203@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:[공개 예정] NO LiMIT
+DTSTAMP:20261014T034019Z
+DTSTART;TZID=Asia/Seoul:20261114T153000
+DTEND;TZID=Asia/Seoul:20261114T173000
+SUMMARY:2026 7uka Birthday Live 『夢現』
+LOCATION:프리즘홀
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 루카-생탄
-URL:https://edendivision.dothome.co.kr/events/루카-생탄
+ 夢現
+URL:https://edendivision.dothome.co.kr/events/夢現
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-221@edendivision
