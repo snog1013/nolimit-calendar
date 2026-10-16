@@ -392,33 +392,36 @@ URL:https://edendivision.dothome.co.kr/events/legacy
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-197@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT · ORIKA
+DTSTAMP:20261016T065023Z
+DTSTART;TZID=Asia/Seoul:20261024T113000
+DTEND;TZID=Asia/Seoul:20261024T133000
+SUMMARY:SEOUL IDOL BLAZE
+LOCATION:세티 라이브홀
 DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA\nhttps://edendi
- vision.dothome.co.kr/events/주최-94d7
-URL:https://edendivision.dothome.co.kr/events/주최-94d7
+ vision.dothome.co.kr/events/seoul-idol-blaze
+URL:https://edendivision.dothome.co.kr/events/seoul-idol-blaze
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-227@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT
+DTSTAMP:20261016T065023Z
+DTSTART;TZID=Asia/Seoul:20261025T160000
+DTEND;TZID=Asia/Seoul:20261025T180000
+SUMMARY:LiaR Our Truth
+LOCATION:세티 라이브홀
 DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT\nhttps://edendivision.do
- thome.co.kr/events/수소-주최-예정
-URL:https://edendivision.dothome.co.kr/events/수소-주최-예정
+ thome.co.kr/events/liar-our-truth
+URL:https://edendivision.dothome.co.kr/events/liar-our-truth
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-188@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:[공개 예정] NO LiMIT · ORIKA
-DESCRIPTION:出演: NO LiMIT · ORIKA\nhttps://edendivision.dothome.co.kr/
- events/파라다이스-서브
-URL:https://edendivision.dothome.co.kr/events/파라다이스-서브
+DTSTAMP:20261016T065023Z
+DTSTART;TZID=Asia/Seoul:20261027T190000
+DTEND;TZID=Asia/Seoul:20261027T210000
+SUMMARY:PARADIS SUB-STAGE
+LOCATION:긱 라이브하우스
+DESCRIPTION:出演: IDOL PREVIEW PROJECT · NO LiMIT · ORIKA\nhttps://ede
+ ndivision.dothome.co.kr/events/paradis-sub-stage-6a37
+URL:https://edendivision.dothome.co.kr/events/paradis-sub-stage-6a37
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-199@edendivision
@@ -441,6 +444,16 @@ DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/be
  yond-the-limit-1st-anniversary
 URL:https://edendivision.dothome.co.kr/events/beyond-the-limit-1st-anniver
  sary
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-238@edendivision
+DTSTAMP:20261016T065023Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 베타-리리이베
+URL:https://edendivision.dothome.co.kr/events/베타-리리이베
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-230@edendivision
@@ -473,6 +486,16 @@ LOCATION:프리즘홀
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
  夢現
 URL:https://edendivision.dothome.co.kr/events/夢現
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-239@edendivision
+DTSTAMP:20261016T065023Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 아이니티-신체제
+URL:https://edendivision.dothome.co.kr/events/아이니티-신체제
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-221@edendivision
@@ -523,6 +546,16 @@ SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT · ORIKA
 DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA\nhttps://edendi
  vision.dothome.co.kr/events/피버메가
 URL:https://edendivision.dothome.co.kr/events/피버메가
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-240@edendivision
+DTSTAMP:20261016T065023Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 디어브-리리이베
+URL:https://edendivision.dothome.co.kr/events/디어브-리리이베
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-207@edendivision
