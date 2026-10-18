@@ -381,13 +381,13 @@ URL:https://edendivision.dothome.co.kr/events/오리카-리리이베-eefc
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-186@edendivision
-DTSTAMP:20261012T033222Z
+DTSTAMP:20261018T064529Z
 DTSTART;TZID=Asia/Seoul:20261020T183000
 DTEND;TZID=Asia/Seoul:20261020T203000
 SUMMARY:Legacy
 LOCATION:프리즘홀
-DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
- e.co.kr/events/legacy
+DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA · 하카제\nhttps://edendi
+ vision.dothome.co.kr/events/legacy
 URL:https://edendivision.dothome.co.kr/events/legacy
 END:VEVENT
 BEGIN:VEVENT
