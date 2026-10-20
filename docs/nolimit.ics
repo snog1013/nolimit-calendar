@@ -425,14 +425,14 @@ URL:https://edendivision.dothome.co.kr/events/paradis-sub-stage-6a37
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-199@edendivision
-DTSTAMP:20261018T093754Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카
- 제
-DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카제\nh
- ttps://edendivision.dothome.co.kr/events/피버-메가-할로윈
-URL:https://edendivision.dothome.co.kr/events/피버-메가-할로윈
+DTSTAMP:20261020T154143Z
+DTSTART;TZID=Asia/Seoul:20261031T115000
+DTEND;TZID=Asia/Seoul:20261031T135000
+SUMMARY:IDOL FEVER MEGA STAGE - HALLOWEEN SPECIAL : DAY
+LOCATION:프리즘홀
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/halloween-special-day
+URL:https://edendivision.dothome.co.kr/events/halloween-special-day
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-202@edendivision
