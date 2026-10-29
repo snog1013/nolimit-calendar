@@ -468,14 +468,27 @@ DESCRIPTION:出演: H7KD · NO LiMIT\nhttps://edendivision.dothome.co.kr/e
 URL:https://edendivision.dothome.co.kr/events/prism-one-scene-four-colors
 END:VEVENT
 BEGIN:VEVENT
+UID:eden-250@edendivision
+DTSTAMP:20261029T095458Z
+DTSTART;TZID=Asia/Seoul:20261107T173000
+DTEND;TZID=Asia/Seoul:20261107T193000
+SUMMARY:SooSo Presents : FREE DAY Vol.3
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/sooso-presents-free-day-vol-3
+URL:https://edendivision.dothome.co.kr/events/sooso-presents-free-day-vol-
+ 3
+END:VEVENT
+BEGIN:VEVENT
 UID:eden-219@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:[공개 예정] H7KD · NO LiMIT · ORIKA
-DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
- e.co.kr/events/빼빼로주최
-URL:https://edendivision.dothome.co.kr/events/빼빼로주최
+DTSTAMP:20261029T095458Z
+DTSTART;TZID=Asia/Seoul:20261111T183000
+DTEND;TZID=Asia/Seoul:20261111T203000
+SUMMARY:빼빼로 데이트는 될 수 없어!
+LOCATION:프리즘홀
+DESCRIPTION:出演: IDOL PREVIEW PROJECT · NO LiMIT\nhttps://edendivision
+ .dothome.co.kr/events/빼빼로-데이트는-될-수-없어
+URL:https://edendivision.dothome.co.kr/events/빼빼로-데이트는-될-
+ 수-없어
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-203@edendivision
