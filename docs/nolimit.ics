@@ -572,14 +572,114 @@ DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
 URL:https://edendivision.dothome.co.kr/events/디어브-리리이베
 END:VEVENT
 BEGIN:VEVENT
-UID:eden-207@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+UID:eden-251@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
 SUMMARY:[공개 예정] NO LiMIT
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 제로생탄
+ 세티
+URL:https://edendivision.dothome.co.kr/events/세티
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-252@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 세티-6ca9
+URL:https://edendivision.dothome.co.kr/events/세티-6ca9
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-253@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 에덴-매쉬업-2d97
+URL:https://edendivision.dothome.co.kr/events/에덴-매쉬업-2d97
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-254@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/파라디스섭스테
+URL:https://edendivision.dothome.co.kr/events/파라디스섭스테
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-207@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/제로생탄
 URL:https://edendivision.dothome.co.kr/events/제로생탄
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-255@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 에덴-매쉬업-3442
+URL:https://edendivision.dothome.co.kr/events/에덴-매쉬업-3442
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-256@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 마포구5기
+URL:https://edendivision.dothome.co.kr/events/마포구5기
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-208@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/유나생탄
+URL:https://edendivision.dothome.co.kr/events/유나생탄
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-257@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT · ORIKA
+DESCRIPTION:出演: LuciDreaM · NO LiMIT · ORIKA\nhttps://edendivision.d
+ othome.co.kr/events/오리카주최
+URL:https://edendivision.dothome.co.kr/events/오리카주최
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-258@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/에덴-크리스마스
+URL:https://edendivision.dothome.co.kr/events/에덴-크리스마스
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-259@edendivision
+DTSTAMP:20261029T182706Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/피버-메가
+URL:https://edendivision.dothome.co.kr/events/피버-메가
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-235@edendivision
