@@ -691,4 +691,14 @@ DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
  e.co.kr/events/리코-생탄
 URL:https://edendivision.dothome.co.kr/events/리코-생탄
 END:VEVENT
+BEGIN:VEVENT
+UID:eden-265@edendivision
+DTSTAMP:20261030T095746Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/리아-생탄
+URL:https://edendivision.dothome.co.kr/events/리아-생탄
+END:VEVENT
 END:VCALENDAR
