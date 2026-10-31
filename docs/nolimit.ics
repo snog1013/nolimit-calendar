@@ -553,13 +553,13 @@ URL:https://edendivision.dothome.co.kr/events/바운드러쉬
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-224@edendivision
-DTSTAMP:20261018T093754Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT
-DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT\nhttps://edendivision.do
- thome.co.kr/events/피버메가
-URL:https://edendivision.dothome.co.kr/events/피버메가
+SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
+ .kr/events/루시드림-리리이베
+URL:https://edendivision.dothome.co.kr/events/루시드림-리리이베
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-240@edendivision
@@ -573,12 +573,12 @@ URL:https://edendivision.dothome.co.kr/events/디어브-리리이베
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-251@edendivision
-DTSTAMP:20261029T182706Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 세티
+SUMMARY:[공개 예정] H7KD · NO LiMIT · ORIKA
+DESCRIPTION:出演: H7KD · NO LiMIT · ORIKA\nhttps://edendivision.dothom
+ e.co.kr/events/세티
 URL:https://edendivision.dothome.co.kr/events/세티
 END:VEVENT
 BEGIN:VEVENT
@@ -593,12 +593,12 @@ URL:https://edendivision.dothome.co.kr/events/세티-6ca9
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-253@edendivision
-DTSTAMP:20261029T182706Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 에덴-매쉬업-2d97
+SUMMARY:[공개 예정] H7KD · NO LiMIT · 하카제
+DESCRIPTION:出演: H7KD · NO LiMIT · 하카제\nhttps://edendivision.do
+ thome.co.kr/events/에덴-매쉬업-2d97
 URL:https://edendivision.dothome.co.kr/events/에덴-매쉬업-2d97
 END:VEVENT
 BEGIN:VEVENT
@@ -623,12 +623,12 @@ URL:https://edendivision.dothome.co.kr/events/제로생탄
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-255@edendivision
-DTSTAMP:20261029T182706Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 에덴-매쉬업-3442
+SUMMARY:[공개 예정] H7KD · NO LiMIT
+DESCRIPTION:出演: H7KD · NO LiMIT\nhttps://edendivision.dothome.co.kr/e
+ vents/에덴-매쉬업-3442
 URL:https://edendivision.dothome.co.kr/events/에덴-매쉬업-3442
 END:VEVENT
 BEGIN:VEVENT
@@ -663,22 +663,24 @@ URL:https://edendivision.dothome.co.kr/events/오리카주최
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-258@edendivision
-DTSTAMP:20261029T182706Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
-DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
- .kr/events/에덴-크리스마스
+SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카
+ 제
+DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카제\nh
+ ttps://edendivision.dothome.co.kr/events/에덴-크리스마스
 URL:https://edendivision.dothome.co.kr/events/에덴-크리스마스
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-259@edendivision
-DTSTAMP:20261029T182706Z
+DTSTAMP:20261031T053627Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
-DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
- .kr/events/피버-메가
+SUMMARY:[공개 예정] H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카
+ 제
+DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA · 하카제\nh
+ ttps://edendivision.dothome.co.kr/events/피버-메가
 URL:https://edendivision.dothome.co.kr/events/피버-메가
 END:VEVENT
 BEGIN:VEVENT
