@@ -448,13 +448,14 @@ URL:https://edendivision.dothome.co.kr/events/beyond-the-limit-1st-anniver
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-238@edendivision
-DTSTAMP:20261016T065023Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 베타-리리이베
-URL:https://edendivision.dothome.co.kr/events/베타-리리이베
+DTSTAMP:20261103T064412Z
+DTSTART;TZID=Asia/Seoul:20261104T184000
+DTEND;TZID=Asia/Seoul:20261104T204000
+SUMMARY:Elsewhere
+LOCATION:아스트라홀
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/el
+ sewhere
+URL:https://edendivision.dothome.co.kr/events/elsewhere
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-230@edendivision
