@@ -504,13 +504,14 @@ URL:https://edendivision.dothome.co.kr/events/夢現
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-239@edendivision
-DTSTAMP:20261016T065023Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:[공개 예정] NO LiMIT
-DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
- 아이니티-신체제
-URL:https://edendivision.dothome.co.kr/events/아이니티-신체제
+DTSTAMP:20261105T172235Z
+DTSTART;TZID=Asia/Seoul:20261118T184000
+DTEND;TZID=Asia/Seoul:20261118T204000
+SUMMARY:MATCH POINT
+LOCATION:아스트라홀
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/ma
+ tch-point
+URL:https://edendivision.dothome.co.kr/events/match-point
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-221@edendivision
