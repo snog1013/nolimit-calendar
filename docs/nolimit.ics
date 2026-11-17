@@ -515,10 +515,11 @@ URL:https://edendivision.dothome.co.kr/events/match-point
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-221@edendivision
-DTSTAMP:20260924T160917Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:[공개 예정] NO LiMIT · ORIKA
+DTSTAMP:20261117T034941Z
+DTSTART;TZID=Asia/Seoul:20261121T120000
+DTEND;TZID=Asia/Seoul:20261121T140000
+SUMMARY:SETi FES Vol.42
+LOCATION:세티 라이브홀
 DESCRIPTION:出演: NO LiMIT · ORIKA\nhttps://edendivision.dothome.co.kr/
  events/수소-내한
 URL:https://edendivision.dothome.co.kr/events/수소-내한
