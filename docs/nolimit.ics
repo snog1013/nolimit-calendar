@@ -558,20 +558,22 @@ URL:https://edendivision.dothome.co.kr/events/bound-rush-vol-6
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-224@edendivision
-DTSTAMP:20261031T053627Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
+DTSTAMP:20261118T113639Z
+DTSTART;TZID=Asia/Seoul:20261128T120000
+DTEND;TZID=Asia/Seoul:20261128T140000
+SUMMARY:SUPER DREAMER
+LOCATION:세티 라이브홀
 DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
- .kr/events/루시드림-리리이베
-URL:https://edendivision.dothome.co.kr/events/루시드림-리리이베
+ .kr/events/super-dreamer-cef3
+URL:https://edendivision.dothome.co.kr/events/super-dreamer-cef3
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-240@edendivision
-DTSTAMP:20261016T065023Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[공개 예정] NO LiMIT
+DTSTAMP:20261118T113639Z
+DTSTART;TZID=Asia/Seoul:20261129T110000
+DTEND;TZID=Asia/Seoul:20261129T130000
+SUMMARY:letter
+LOCATION:아스트라홀
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
  디어브-리리이베
 URL:https://edendivision.dothome.co.kr/events/디어브-리리이베
@@ -705,5 +707,15 @@ SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
 DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
  .kr/events/리아-생탄
 URL:https://edendivision.dothome.co.kr/events/리아-생탄
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-272@edendivision
+DTSTAMP:20261118T113639Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:[공개 예정] NO LiMIT
+DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
+ 노리밋-리리이베-0422
+URL:https://edendivision.dothome.co.kr/events/노리밋-리리이베-0422
 END:VEVENT
 END:VCALENDAR

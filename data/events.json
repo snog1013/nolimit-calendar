@@ -492,22 +492,22 @@
  "224": {
   "id": "224",
   "date": "2026-11-28",
-  "title": "[공개 예정]",
-  "time": "",
-  "venue": "",
+  "title": "SUPER DREAMER",
+  "time": "12:00",
+  "venue": "세티 라이브홀",
   "groups": "LuciDreaM · NO LiMIT",
-  "url": "https://edendivision.dothome.co.kr/events/루시드림-리리이베",
-  "stamp": "20261031T053627Z"
+  "url": "https://edendivision.dothome.co.kr/events/super-dreamer-cef3",
+  "stamp": "20261118T113639Z"
  },
  "240": {
   "id": "240",
   "date": "2026-11-29",
-  "title": "[공개 예정]",
-  "time": "",
-  "venue": "",
+  "title": "letter",
+  "time": "11:00",
+  "venue": "아스트라홀",
   "groups": "NO LiMIT",
   "url": "https://edendivision.dothome.co.kr/events/디어브-리리이베",
-  "stamp": "20261016T065023Z"
+  "stamp": "20261118T113639Z"
  },
  "251": {
   "id": "251",
@@ -638,5 +638,15 @@
   "groups": "LuciDreaM · NO LiMIT",
   "url": "https://edendivision.dothome.co.kr/events/리아-생탄",
   "stamp": "20261030T095746Z"
+ },
+ "272": {
+  "id": "272",
+  "date": "2027-01-05",
+  "title": "[공개 예정]",
+  "time": "",
+  "venue": "",
+  "groups": "NO LiMIT",
+  "url": "https://edendivision.dothome.co.kr/events/노리밋-리리이베-0422",
+  "stamp": "20261118T113639Z"
  }
 }
