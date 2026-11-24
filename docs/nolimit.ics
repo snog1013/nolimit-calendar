@@ -641,10 +641,11 @@ URL:https://edendivision.dothome.co.kr/events/에덴-매쉬업-3442
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-256@edendivision
-DTSTAMP:20261029T182706Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:[공개 예정] NO LiMIT
+DTSTAMP:20261124T133854Z
+DTSTART;TZID=Asia/Seoul:20261218T182000
+DTEND;TZID=Asia/Seoul:20261218T202000
+SUMMARY:何度目の坂登りか?
+LOCATION:웨스트브릿지 라이브홀
 DESCRIPTION:出演: NO LiMIT\nhttps://edendivision.dothome.co.kr/events/
  마포구5기
 URL:https://edendivision.dothome.co.kr/events/마포구5기
