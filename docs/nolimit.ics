@@ -621,13 +621,14 @@ URL:https://edendivision.dothome.co.kr/events/파라디스섭스테
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-207@edendivision
-DTSTAMP:20261029T182706Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:[공개 예정] LuciDreaM · NO LiMIT
-DESCRIPTION:出演: LuciDreaM · NO LiMIT\nhttps://edendivision.dothome.co
- .kr/events/제로생탄
-URL:https://edendivision.dothome.co.kr/events/제로생탄
+DTSTAMP:20261124T235230Z
+DTSTART;TZID=Asia/Seoul:20261213T153000
+DTEND;TZID=Asia/Seoul:20261213T173000
+SUMMARY:2026 Zer0 Birthday Live (null)
+LOCATION:웨스트브릿지 라이브홀
+DESCRIPTION:出演: H7KD · LuciDreaM · NO LiMIT · ORIKA\nhttps://edendi
+ vision.dothome.co.kr/events/null
+URL:https://edendivision.dothome.co.kr/events/null
 END:VEVENT
 BEGIN:VEVENT
 UID:eden-255@edendivision
